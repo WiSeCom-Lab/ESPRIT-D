@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ESPRIT-D
+message: 'If you use the codes, please kindly cite below. Thanks!'
+type: software
+authors:
+  - given-names: 'Yun '
+    family-names: Chen
+    email: ychen273@ncsu.edu
+    affiliation: North Carolina State University
+repository-code: 'https://github.com/WiSeCom-Lab/ESPRIT-D.git'
+license: MIT
+date-released: '2023-12-15'
